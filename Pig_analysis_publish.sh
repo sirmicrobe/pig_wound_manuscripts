@@ -17,7 +17,6 @@ for i in {01..84}; do java -jar trimmomatic-0.36.jar PE -threads 4 -phred33 /hom
 module load trimmomatic/trimmomatic-0.36
 for i in {77..81}; do trimmomatic PE -threads 4 -phred33 /home/data/dmux/171207/ErinGloag/120717_$i/*R1_001.fastq.gz /home/data/dmux/171207/ErinGloag/120717_$i/*R2_001.fastq.gz /home/cwm47/pig_pa/trim3/"$i"_forward_paired.fq.gz /home/cwm47/pig_pa/trim3/"$i"_forward_unpaired.fq.gz /home/cwm47/pig_pa/trim3/"$i"_reverse_paired.fq.gz /home/cwm47/pig_pa/trim3/"$i"_reverse_unpaired.fq.gz ILLUMINACLIP:/home/cwm47/build/Trimmomatic-0.36/adapters/NexteraPE--pe.fa:2:30:10 LEADING:20 TRAILING:20 SLIDINGWINDOW:4:20 MINLEN:70;done
 
-
 ##############################
 ## Variant calling ##
 ##############################
