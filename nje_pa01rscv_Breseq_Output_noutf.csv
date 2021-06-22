@@ -1,0 +1,43 @@
+Sample,Seq Id,Position,Reads (Cov),Reads (Cov),Score,Freq,Annotation,Gene,Product
+02_breseq_pa01_a107_out,NC_002516,'792189=,9 (0.260),8 (0.240),8/262,47.4%,coding(820/1263nt),PA0724,phage coat protein A
+02_breseq_pa01_a107_out,NC_002516,,9 (0.270),,,47.4%,coding(816/1263nt),PA0724,phage coat protein A
+03_breseq_pa01_a107_out,NC_002516,'=792189,15 (0.310),16 (0.340),15/262,52.8%,coding(820/1263nt),PA0724,phage coat protein A
+03_breseq_pa01_a107_out,NC_002516,792193=,14 (0.300),,,52.8%,coding(824/1263nt),PA0724,phage coat protein A
+05_breseq_pa01_a107_out,NC_002516,'792189=,13 (0.300),8 (0.190),6/264,38.5%,coding(820/1263nt),PA0724,phage coat protein A
+05_breseq_pa01_a107_out,NC_002516,,13 (0.310),,,38.5%,coding(816/1263nt),PA0724,phage coat protein A
+06_breseq_pa01_a107_out,NC_002516,'792189=,12 (0.270),13 (0.300),13/264,52.4%,coding(820/1263nt),PA0724,phage coat protein A
+06_breseq_pa01_a107_out,NC_002516,,12 (0.280),,,52.4%,coding(816/1263nt),PA0724,phage coat protein A
+07_breseq_pa01_a107_out,NC_002516,'792189=,20 (0.420),18 (0.390),15/264,48.4%,coding(820/1263nt),PA0724,phage coat protein A
+07_breseq_pa01_a107_out,NC_002516,,19 (0.410),,,48.4%,coding(816/1263nt),PA0724,phage coat protein A
+08_breseq_pa01_a107_out,NC_002516,'792189=,16 (0.290),19 (0.360),18/260,54.7%,coding(820/1263nt),PA0724,phage coat protein A
+08_breseq_pa01_a107_out,NC_002516,,16 (0.300),,,54.7%,coding(816/1263nt),PA0724,phage coat protein A
+09_breseq_pa01_a107_out,NC_002516,'=792189,6 (0.190),9 (0.290),8/264,60.4%,coding(820/1263nt),PA0724,phage coat protein A
+09_breseq_pa01_a107_out,NC_002516,792193=,6 (0.200),,,60.4%,coding(824/1263nt),PA0724,phage coat protein A
+12_breseq_pa01_a107_out,NC_002516,'792189=,22 (0.370),17 (0.290),14/262,44.5%,coding(820/1263nt),PA0724,phage coat protein A
+12_breseq_pa01_a107_out,NC_002516,,21 (0.360),,,44.5%,coding(816/1263nt),PA0724,phage coat protein A
+13_breseq_pa01_a107_out,NC_002516,'=792189,19 (0.310),20 (0.340),18/258,51.7%,coding(820/1263nt),PA0724,phage coat protein A
+13_breseq_pa01_a107_out,NC_002516,792193=,19 (0.320),,,51.7%,coding(824/1263nt),PA0724,phage coat protein A
+17_breseq_pa01_a107_out,NC_002516,'792189=,30 (0.440),22 (0.340),21/260,43.1%,coding(820/1263nt),PA0724,phage coat protein A
+17_breseq_pa01_a107_out,NC_002516,,29 (0.440),,,43.1%,coding(816/1263nt),PA0724,phage coat protein A
+18_breseq_pa01_a107_out,NC_002516,'=792189,21 (0.330),18 (0.290),16/260,47.1%,coding(820/1263nt),PA0724,phage coat protein A
+18_breseq_pa01_a107_out,NC_002516,792193=,20 (0.330),,,47.1%,coding(824/1263nt),PA0724,phage coat protein A
+19_breseq_pa01_a107_out,NC_002516,'785311=,121 (2.040),113 (2.380),53/218,60.0%,intergenic(+137/658),PA0714/PA0715,hypothetical protein/hypothetical protein
+19_breseq_pa01_a107_out,NC_002516,,54 (1.140),,,60.0%,intergenic(+122/+1),PA0729/PA0729.1,hypothetical protein/tRNAGly
+19_breseq_pa01_a107_out,NC_002516,'=792189,51 (0.860),17 (0.300),14/264,25.7%,coding(820/1263nt),PA0724,phage coat protein A
+19_breseq_pa01_a107_out,NC_002516,792193=,49 (0.850),,,25.7%,coding(824/1263nt),PA0724,phage coat protein A
+21_breseq_pa01_a107_out,NC_002516,'792189=,8 (0.230),14 (0.420),12/264,64.0%,coding(820/1263nt),PA0724,phage coat protein A
+21_breseq_pa01_a107_out,NC_002516,,8 (0.240),,,64.0%,coding(816/1263nt),PA0724,phage coat protein A
+22_breseq_pa01_a107_out,NC_002516,'792189=,24 (0.470),23 (0.460),19/264,49.8%,coding(820/1263nt),PA0724,phage coat protein A
+22_breseq_pa01_a107_out,NC_002516,,23 (0.460),,,49.8%,coding(816/1263nt),PA0724,phage coat protein A
+23_breseq_pa01_a107_out,NC_002516,'=792189,16 (0.310),14 (0.280),12/264,47.0%,coding(820/1263nt),PA0724,phage coat protein A
+23_breseq_pa01_a107_out,NC_002516,792193=,16 (0.320),,,47.0%,coding(824/1263nt),PA0724,phage coat protein A
+24_breseq_pa01_a107_out,NC_002516,'792189=,15 (0.350),11 (0.270),10/264,43.5%,coding(820/1263nt),PA0724,phage coat protein A
+24_breseq_pa01_a107_out,NC_002516,,14 (0.340),,,43.5%,coding(816/1263nt),PA0724,phage coat protein A
+25_breseq_pa01_a107_out,NC_002516,'=792189,24 (0.380),26 (0.430),20/256,52.4%,coding(820/1263nt),PA0724,phage coat protein A
+25_breseq_pa01_a107_out,NC_002516,792193=,24 (0.400),,,52.4%,coding(824/1263nt),PA0724,phage coat protein A
+26_breseq_pa01_a107_out,NC_002516,'=792189,22 (0.440),14 (0.290),13/266,39.2%,coding(820/1263nt),PA0724,phage coat protein A
+26_breseq_pa01_a107_out,NC_002516,792193=,22 (0.460),,,39.2%,coding(824/1263nt),PA0724,phage coat protein A
+27_breseq_pa01_a107_out,NC_002516,'792189=,16 (0.310),17 (0.340),16/266,53.5%,coding(820/1263nt),PA0724,phage coat protein A
+27_breseq_pa01_a107_out,NC_002516,,14 (0.280),,,53.5%,coding(816/1263nt),PA0724,phage coat protein A
+31_breseq_pa01_a107_out,NC_002516,'3650825=,10 (0.990),13 (1.450)+TCTCCACCATTTATA,5/238,53.0%,noncoding(66/76nt),PA3262.2,tRNAVal
+31_breseq_pa01_a107_out,NC_002516,5809971=,16 (1.590),,,53.0%,noncoding(2/76nt),PA5160.1,tRNAThr

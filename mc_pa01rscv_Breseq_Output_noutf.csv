@@ -1,0 +1,734 @@
+Sample,Seq Id,Start,End,Size,<-Reads,Reads->,Gene,Description
+02_breseq_pa01_a107_out,NC_002516,226463,226479,17,5[3],[4]6,pntB,pyridine nucleotide transhydrogenase subunit beta
+02_breseq_pa01_a107_out,NC_002516,1335526,1335557,32,5[4],[3]5,PA1234/PA1235,hypothetical protein/transcriptional regulator
+02_breseq_pa01_a107_out,NC_002516,1349479,1349501,23,6[4],[2]6,PA1245,hypothetical protein
+02_breseq_pa01_a107_out,NC_002516,1422314,1422369,56,5[4],[4]5,[PA1312],[PA1312]
+02_breseq_pa01_a107_out,NC_002516,2186919,2186960,42,5[4],[4]5,dhcB/atoB,dehydrocarnitine CoA transferase subunit B/acetylCoA acetyltransferase
+02_breseq_pa01_a107_out,NC_002516,2199739,2199754,16,6[4],[0]8,PA2010/liuE,transcriptional regulator/3hydroxy3isohexenylglutarylCoA/hydroxy methylglutarylCoA lyase
+02_breseq_pa01_a107_out,NC_002516,2532636,2532683,48,6[4],[4]5,[ambE],[ambE]
+02_breseq_pa01_a107_out,NC_002516,4448855,4448893,39,5[3],[4]5,[amn],[amn]
+02_breseq_pa01_a107_out,NC_002516,4588580,4588691,112,5[2],[4]5,PA4104/PA4105,hypothetical protein/hypothetical protein
+02_breseq_pa01_a107_out,NC_002516,47886864789053,47941494789122,705464,7[4],[4]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+02_breseq_pa01_a107_out,NC_002516,4833251,4833364,114,5[4],[4]5,[pctC],[pctC]
+02_breseq_pa01_a107_out,NC_002516,4925201,4925226,26,10[0],[4]5,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+02_breseq_pa01_a107_out,NC_002516,4962234,4962253,20,6[4],[4]5,sspA/PA4429,stringent starvation protein A/cytochrome C1
+03_breseq_pa01_a107_out,NC_002516,226466,226475,10,3[0],[2]6,pntB,pyridine nucleotide transhydrogenase subunit beta
+03_breseq_pa01_a107_out,NC_002516,1598980,1599033,54,3[2],[2]3,[PA1471],[PA1471]
+03_breseq_pa01_a107_out,NC_002516,2186927,2186960,34,3[2],[2]3,dhcB/atoB,dehydrocarnitine CoA transferase subunit B/acetylCoA acetyltransferase
+03_breseq_pa01_a107_out,NC_002516,2350936,2350994,59,3[2],[2]3,PA2135,transporter
+03_breseq_pa01_a107_out,NC_002516,2526197,2526220,24,3[1],[2]4,PA2296,hypothetical protein
+03_breseq_pa01_a107_out,NC_002516,3817802,3817812,11,3[2],[2]4,PA3409,transmembrane sensor
+03_breseq_pa01_a107_out,NC_002516,4588594,4588648,55,3[2],[2]4,PA4104/PA4105,hypothetical protein/hypothetical protein
+03_breseq_pa01_a107_out,NC_002516,47886864789053,47941304789122,705445,4[2],[2]4,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+05_breseq_pa01_a107_out,NC_002516,1272172,1272216,45,5[4],[4]5,[napC],[napC]
+05_breseq_pa01_a107_out,NC_002516,1335538,1335560,23,8[4],[2]6,PA1234/PA1235,hypothetical protein/transcriptional regulator
+05_breseq_pa01_a107_out,NC_002516,1526403,1526421,19,5[4],[4]8,PA1403/PA1404,transcriptional regulator/hypothetical protein
+05_breseq_pa01_a107_out,NC_002516,1844885,1844985,101,5[4],[3]5,pscP,translocation protein in type III secretion
+05_breseq_pa01_a107_out,NC_002516,4588588,4588706,119,5[4],[4]5,PA4104/PA4105,hypothetical protein/hypothetical protein
+05_breseq_pa01_a107_out,NC_002516,47886864789053,47941384789122,705453,7[3],[4]6,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+05_breseq_pa01_a107_out,NC_002516,4833295,4833333,39,5[4],[4]5,pctC/PA4308,chemotactic transducer PctC/hypothetical protein
+05_breseq_pa01_a107_out,NC_002516,4925201,4925226,26,10[3],[4]5,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+05_breseq_pa01_a107_out,NC_002516,5638827,5638868,42,5[4],[2]5,aceE/aceF,pyruvate dehydrogenase subunit E1/dihydrolipoamide acetyltransferase
+06_breseq_pa01_a107_out,NC_002516,1335531,1335557,27,3[2],[2]3,PA1234/PA1235,hypothetical protein/transcriptional regulator
+06_breseq_pa01_a107_out,NC_002516,1830606,1830637,32,3[2],[2]3,PA1680,hypothetical protein
+06_breseq_pa01_a107_out,NC_002516,2186921,2186967,47,3[2],[2]3,dhcB/atoB,dehydrocarnitine CoA transferase subunit B/acetylCoA acetyltransferase
+06_breseq_pa01_a107_out,NC_002516,2371531,2371556,26,3[2],[2]3,glgB,"1,4alphaglucan branching protein GlgB"
+06_breseq_pa01_a107_out,NC_002516,2860303,2860340,38,3[2],[2]3,tpx/PA2533,2Cys peroxiredoxin/sodium:alanine symporter
+06_breseq_pa01_a107_out,NC_002516,3124313,3124344,32,3[2],[2]3,[PA2765],[PA2765]
+06_breseq_pa01_a107_out,NC_002516,4588599,4588655,57,3[2],[2]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+06_breseq_pa01_a107_out,NC_002516,47886864789053,47941394789122,705454,5[2],[2]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+06_breseq_pa01_a107_out,NC_002516,52641895268416,52692035268418,35015,4[2],[2]3,[PA4690.1][PA4690.5],"[PA4690.1], PA4690.2, PA4690.3, PA4690.4, [PA4690.5]"
+06_breseq_pa01_a107_out,NC_002516,60396376043900,60451376043902,35501,5[2],[2]3,[PA5369.1]PA5369.5,"[PA5369.1], PA5369.2, PA5369.3, PA5369.4, PA5369.5"
+07_breseq_pa01_a107_out,NC_002516,884435,884459,25,3[2],[2]3,PA0806/ampDh3,hypothetical protein/protein AmpDh3
+07_breseq_pa01_a107_out,NC_002516,1296277,1296287,11,3[2],[2]4,PA1194/PA1195,amino acid permease/hypothetical protein
+07_breseq_pa01_a107_out,NC_002516,1844622,1844671,50,3[2],[2]3,pscP,translocation protein in type III secretion
+07_breseq_pa01_a107_out,NC_002516,1844895,1845000,106,3[2],[2]3,pscP,translocation protein in type III secretion
+07_breseq_pa01_a107_out,NC_002516,2186929,2186971,43,4[1],[2]3,dhcB/atoB,dehydrocarnitine CoA transferase subunit B/acetylCoA acetyltransferase
+07_breseq_pa01_a107_out,NC_002516,2480747,2480778,32,3[2],[2]3,PA2252/ansA,AGCS sodium/alanine/glycine symporter/Lasparaginase I
+07_breseq_pa01_a107_out,NC_002516,2526186,2526226,41,4[2],[2]6,PA2296,hypothetical protein
+07_breseq_pa01_a107_out,NC_002516,2860304,2860322,19,4[2],[2]3,tpx/PA2533,2Cys peroxiredoxin/sodium:alanine symporter
+07_breseq_pa01_a107_out,NC_002516,3808291,3808303,13,4[0],[2]4,PA3402/PA3403,hypothetical protein/hypothetical protein
+07_breseq_pa01_a107_out,NC_002516,3817781,3817825,45,3[2],[2]3,PA3409,transmembrane sensor
+07_breseq_pa01_a107_out,NC_002516,4588604,4588687,84,3[0],[2]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+07_breseq_pa01_a107_out,NC_002516,47886884789053,47941344789122,705447,4[2],[2]3,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+07_breseq_pa01_a107_out,NC_002516,4833297,4833332,36,3[2],[2]3,pctC/PA4308,chemotactic transducer PctC/hypothetical protein
+08_breseq_pa01_a107_out,NC_002516,870228,870284,57,11[10],[9]12,[PA0794],[PA0794]
+08_breseq_pa01_a107_out,NC_002516,1335520,1335577,58,11[10],[9]11,PA1234/PA1235,hypothetical protein/transcriptional regulator
+08_breseq_pa01_a107_out,NC_002516,1844864,1844987,124,12[10],[9]12,pscP,translocation protein in type III secretion
+08_breseq_pa01_a107_out,NC_002516,4588559,4588714,156,11[7],[10]11,PA4104/PA4105,hypothetical protein/hypothetical protein
+08_breseq_pa01_a107_out,NC_002516,47886764789053,47941494789122,705474,11[10],[10]12,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+09_breseq_pa01_a107_out,NC_002516,872957,872973,17,2[1],[1]2,PA0794/prpC,aconitate hydratase/methylcitrate synthase
+09_breseq_pa01_a107_out,NC_002516,1335550,1335589,40,2[1],[1]2,PA1234/PA1235,hypothetical protein/transcriptional regulator
+09_breseq_pa01_a107_out,NC_002516,1526403,1526418,16,2[0],[0]2,PA1403/PA1404,transcriptional regulator/hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,1554855,1554879,25,2[1],[1]2,PA1428/PA1429,hypothetical protein/cationtransporting Ptype ATPase
+09_breseq_pa01_a107_out,NC_002516,1844914,1844969,56,2[1],[1]2,pscP,translocation protein in type III secretion
+09_breseq_pa01_a107_out,NC_002516,2336216,2336278,63,2[1],[1]2,PA2124,dehydrogenase
+09_breseq_pa01_a107_out,NC_002516,2526193,2526215,23,2[0],[1]2,PA2296,hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,2821538,2821549,12,2[1],[1]2,PA2503,hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,2860303,2860322,20,2[1],[0]2,tpx/PA2533,2Cys peroxiredoxin/sodium:alanine symporter
+09_breseq_pa01_a107_out,NC_002516,3420238,3420275,38,2[1],[1]2,PA3054/PA3055,hypothetical protein/hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,3603460,3603486,27,2[1],[0]3,PA3214,hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,3634921,3634974,54,2[1],[0]2,[PA3248],[PA3248]
+09_breseq_pa01_a107_out,NC_002516,3808287,3808303,17,7[0],[1]3,PA3402/PA3403,hypothetical protein/hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,3817786,3817816,31,2[1],[1]2,PA3409,transmembrane sensor
+09_breseq_pa01_a107_out,NC_002516,4126920,4126920,1,2[0],[0]3,PA3685/adk,hypothetical protein/adenylate kinase
+09_breseq_pa01_a107_out,NC_002516,4448854,4448896,43,2[1],[1]2,[amn],[amn]
+09_breseq_pa01_a107_out,NC_002516,4588587,4588692,106,2[1],[1]2,PA4104/PA4105,hypothetical protein/hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,47886864789053,47941304789123,715445,3[1],[1]2,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+09_breseq_pa01_a107_out,NC_002516,4833297,4833369,73,2[1],[1]2,pctC/PA4308,chemotactic transducer PctC/hypothetical protein
+09_breseq_pa01_a107_out,NC_002516,4925204,4925226,23,2[0],[1]5,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+09_breseq_pa01_a107_out,NC_002516,5431281,5431336,56,2[1],[1]2,PA4838/speA,hypothetical protein/arginine decarboxylase
+09_breseq_pa01_a107_out,NC_002516,5915313,5915430,118,2[1],[1]3,algP,alginate regulatory protein AlgP
+12_breseq_pa01_a107_out,NC_002516,993347,993361,15,6[4],[4]5,PA0907/PA0908,hypothetical protein/hypothetical protein
+12_breseq_pa01_a107_out,NC_002516,4588581,4588684,104,5[4],[4]5,PA4104/PA4105,hypothetical protein/hypothetical protein
+12_breseq_pa01_a107_out,NC_002516,47886874789053,47941354789122,705449,5[4],[4]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+12_breseq_pa01_a107_out,NC_002516,4925214,4925226,13,5[3],[3]8,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+12_breseq_pa01_a107_out,NC_002516,5638849,5638868,20,6[3],[2]10,aceE/aceF,pyruvate dehydrogenase subunit E1/dihydrolipoamide acetyltransferase
+13_breseq_pa01_a107_out,NC_002516,226449,226480,32,14[10],[10]11,pntB,pyridine nucleotide transhydrogenase subunit beta
+13_breseq_pa01_a107_out,NC_002516,872933,872978,46,12[10],[8]14,PA0794/prpC,aconitate hydratase/methylcitrate synthase
+13_breseq_pa01_a107_out,NC_002516,1335524,1335569,46,11[10],[10]11,PA1234/PA1235,hypothetical protein/transcriptional regulator
+13_breseq_pa01_a107_out,NC_002516,1349479,1349511,33,12[10],[10]11,PA1245,hypothetical protein
+13_breseq_pa01_a107_out,NC_002516,2526190,2526221,32,11[10],[10]11,PA2296,hypothetical protein
+13_breseq_pa01_a107_out,NC_002516,4448833,4448933,101,11[10],[10]14,[amn],[amn]
+13_breseq_pa01_a107_out,NC_002516,4588564,4588704,141,13[10],[10]11,PA4104/PA4105,hypothetical protein/hypothetical protein
+13_breseq_pa01_a107_out,NC_002516,47886734789053,47941554789122,705483,11[9],[8]12,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+17_breseq_pa01_a107_out,NC_002516,4588571,4588695,125,13[12],[12]13,PA4104/PA4105,hypothetical protein/hypothetical protein
+17_breseq_pa01_a107_out,NC_002516,47886504789053,47941504789122,705501,14[10],[12]13,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+18_breseq_pa01_a107_out,NC_002516,260049,260081,33,13[11],[5]12,pcaB,"3carboxycis,cismuconate cycloisomerase"
+18_breseq_pa01_a107_out,NC_002516,1335503,1335588,86,12[11],[11]12,PA1234/PA1235,hypothetical protein/transcriptional regulator
+18_breseq_pa01_a107_out,NC_002516,4588575,4588721,147,13[11],[11]12,PA4104/PA4105,hypothetical protein/hypothetical protein
+18_breseq_pa01_a107_out,NC_002516,47886774789053,47941504789122,705474,12[11],[11]14,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+19_breseq_pa01_a107_out,NC_002516,2526197,2526217,21,5[3],[1]5,PA2296,hypothetical protein
+19_breseq_pa01_a107_out,NC_002516,2860304,2860324,21,5[4],[2]5,tpx/PA2533,2Cys peroxiredoxin/sodium:alanine symporter
+19_breseq_pa01_a107_out,NC_002516,4588587,4588688,102,5[4],[4]6,PA4104/PA4105,hypothetical protein/hypothetical protein
+19_breseq_pa01_a107_out,NC_002516,47886904789053,47941434789122,705454,5[4],[4]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+21_breseq_pa01_a107_out,NC_002516,158810,158820,11,3[2],[2]5,ahpC/ahpF,alkyl hydroperoxide reductase/alkyl hydroperoxide reductase
+21_breseq_pa01_a107_out,NC_002516,226466,226476,11,3[0],[2]9,pntB,pyridine nucleotide transhydrogenase subunit beta
+21_breseq_pa01_a107_out,NC_002516,1422325,1422362,38,3[2],[2]3,[PA1312],[PA1312]
+21_breseq_pa01_a107_out,NC_002516,2480747,2480788,42,3[2],[2]3,PA2252/ansA,AGCS sodium/alanine/glycine symporter/Lasparaginase I
+21_breseq_pa01_a107_out,NC_002516,2740242,2740302,61,3[2],[2]3,gcvT2,glycine cleavage system protein T2
+21_breseq_pa01_a107_out,NC_002516,3633433,3633456,24,3[2],[0]4,rluA/PA3247,pseudouridine synthase/aminopeptidase
+21_breseq_pa01_a107_out,NC_002516,3817790,3817811,22,3[2],[1]3,PA3409,transmembrane sensor
+21_breseq_pa01_a107_out,NC_002516,4126912,4126920,9,5[2],[1]4,PA3685/adk,hypothetical protein/adenylate kinase
+21_breseq_pa01_a107_out,NC_002516,4448854,4448883,30,6[2],[0]3,PA3969a/amn,hypothetical protein/AMP nucleosidase
+21_breseq_pa01_a107_out,NC_002516,4588581,4588666,86,3[2],[2]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+21_breseq_pa01_a107_out,NC_002516,47886904789053,47941384789122,705449,3[1],[2]3,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+21_breseq_pa01_a107_out,NC_002516,4833291,4833341,51,3[2],[2]3,pctC/PA4308,chemotactic transducer PctC/hypothetical protein
+21_breseq_pa01_a107_out,NC_002516,4925201,4925223,23,7[1],[2]4,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+21_breseq_pa01_a107_out,NC_002516,5638851,5638868,18,6[0],[0]4,aceE/aceF,pyruvate dehydrogenase subunit E1/dihydrolipoamide acetyltransferase
+22_breseq_pa01_a107_out,NC_002516,1526405,1526420,16,5[4],[3]5,PA1403/PA1404,transcriptional regulator/hypothetical protein
+22_breseq_pa01_a107_out,NC_002516,2186919,2186962,44,5[4],[4]5,dhcB/atoB,dehydrocarnitine CoA transferase subunit B/acetylCoA acetyltransferase
+22_breseq_pa01_a107_out,NC_002516,2532622,2532693,72,7[4],[4]5,[ambE],[ambE]
+22_breseq_pa01_a107_out,NC_002516,4588584,4588705,122,6[4],[4]5,PA4104/PA4105,hypothetical protein/hypothetical protein
+22_breseq_pa01_a107_out,NC_002516,47886864789053,47941404789122,705455,8[4],[4]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+22_breseq_pa01_a107_out,NC_002516,4833304,4833357,54,6[4],[4]6,pctC/PA4308,chemotactic transducer PctC/hypothetical protein
+23_breseq_pa01_a107_out,NC_002516,1526375,1526419,45,5[4],[3]5,PA1403/PA1404,transcriptional regulator/hypothetical protein
+23_breseq_pa01_a107_out,NC_002516,1844882,1844987,106,5[3],[3]5,pscP,translocation protein in type III secretion
+23_breseq_pa01_a107_out,NC_002516,3817778,3817822,45,6[4],[4]6,PA3409,transmembrane sensor
+23_breseq_pa01_a107_out,NC_002516,4588599,4588700,102,5[4],[4]5,PA4104/PA4105,hypothetical protein/hypothetical protein
+23_breseq_pa01_a107_out,NC_002516,47886864789053,47941324789122,705447,6[3],[4]5,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+23_breseq_pa01_a107_out,NC_002516,5431307,5431331,25,5[4],[2]5,PA4838/speA,hypothetical protein/arginine decarboxylase
+23_breseq_pa01_a107_out,NC_002516,5638851,5638868,18,5[1],[1]12,aceE/aceF,pyruvate dehydrogenase subunit E1/dihydrolipoamide acetyltransferase
+24_breseq_pa01_a107_out,NC_002516,1240552,1240566,15,3[2],[1]3,PA1147/toxA,amino acid permease/exotoxin A
+24_breseq_pa01_a107_out,NC_002516,1349494,1349504,11,3[2],[2]3,PA1245,hypothetical protein
+24_breseq_pa01_a107_out,NC_002516,1422324,1422343,20,3[2],[2]3,phnX/PA1312,phosphonoacetaldehyde hydrolase/transcriptional regulator
+24_breseq_pa01_a107_out,NC_002516,2186893,2186983,91,3[2],[2]3,[dhcB],[dhcB]
+24_breseq_pa01_a107_out,NC_002516,2305033,2305120,88,4[2],[1]3,PA2094,transmembrane sensor
+24_breseq_pa01_a107_out,NC_002516,2336311,2336400,90,3[2],[2]4,PA2124,dehydrogenase
+24_breseq_pa01_a107_out,NC_002516,2480615,2480765,151,3[2],[2]3,[PA2252],[PA2252]
+24_breseq_pa01_a107_out,NC_002516,3365172,3365254,83,3[2],[2]4,PA3004,Smethyl5'thioinosine phosphorylase
+24_breseq_pa01_a107_out,NC_002516,3817787,3817811,25,4[2],[0]3,PA3409,transmembrane sensor
+24_breseq_pa01_a107_out,NC_002516,4071212,4071229,18,4[2],[2]3,pyrG,CTP synthetase
+24_breseq_pa01_a107_out,NC_002516,4448854,4448883,30,3[1],[2]4,PA3969a/amn,hypothetical protein/AMP nucleosidase
+24_breseq_pa01_a107_out,NC_002516,4588559,4588664,106,9[1],[2]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+24_breseq_pa01_a107_out,NC_002516,47886914789053,47941434789122,705453,3[1],[2]3,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+24_breseq_pa01_a107_out,NC_002516,5939992,5940002,11,3[2],[2]3,PA5273/rnk,hypothetical protein/nucleoside diphosphate kinase regulator
+25_breseq_pa01_a107_out,NC_002516,1844867,1844987,121,11[10],[8]11,pscP,translocation protein in type III secretion
+25_breseq_pa01_a107_out,NC_002516,4588584,4588717,134,11[9],[10]11,PA4104/PA4105,hypothetical protein/hypothetical protein
+25_breseq_pa01_a107_out,NC_002516,47886834789053,47941584789122,705476,13[9],[8]11,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+26_breseq_pa01_a107_out,NC_002516,1335541,1335558,18,8[2],[1]3,PA1234/PA1235,hypothetical protein/transcriptional regulator
+26_breseq_pa01_a107_out,NC_002516,1844885,1844947,63,4[2],[2]3,pscP,translocation protein in type III secretion
+26_breseq_pa01_a107_out,NC_002516,3096860,3096893,34,3[2],[2]3,PA2735,restrictionmodification system protein
+26_breseq_pa01_a107_out,NC_002516,3603480,3603486,7,3[2],[1]5,PA3214,hypothetical protein
+26_breseq_pa01_a107_out,NC_002516,3690972,3690995,24,4[2],[2]4,phoA/PA3297,alkaline phosphatase/ATPdependent helicase
+26_breseq_pa01_a107_out,NC_002516,3817792,3817811,20,3[2],[1]3,PA3409,transmembrane sensor
+26_breseq_pa01_a107_out,NC_002516,4588604,4588684,81,3[1],[1]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+26_breseq_pa01_a107_out,NC_002516,47886864789053,47941484789122,705463,9[1],[2]7,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+27_breseq_pa01_a107_out,NC_002516,1296269,1296305,37,3[2],[2]5,PA1194/PA1195,amino acid permease/hypothetical protein
+27_breseq_pa01_a107_out,NC_002516,1335539,1335571,33,6[2],[2]3,PA1234/PA1235,hypothetical protein/transcriptional regulator
+27_breseq_pa01_a107_out,NC_002516,1526406,1526418,13,4[2],[2]3,PA1403/PA1404,transcriptional regulator/hypothetical protein
+27_breseq_pa01_a107_out,NC_002516,1844887,1844954,68,3[2],[1]3,pscP,translocation protein in type III secretion
+27_breseq_pa01_a107_out,NC_002516,2526197,2526217,21,3[1],[1]4,PA2296,hypothetical protein
+27_breseq_pa01_a107_out,NC_002516,3603483,3603486,4,5[1],[1]10,PA3214,hypothetical protein
+27_breseq_pa01_a107_out,NC_002516,4448855,4448879,25,3[1],[2]4,PA3969a/amn,hypothetical protein/AMP nucleosidase
+27_breseq_pa01_a107_out,NC_002516,4588603,4588694,92,3[2],[2]3,PA4104/PA4105,hypothetical protein/hypothetical protein
+27_breseq_pa01_a107_out,NC_002516,47886904789053,47941484789122,705459,3[1],[0]3,[PA4280.1]PA4280.5,"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, PA4280.5"
+31_breseq_pa01_a107_out,NC_002516,64571,64665,95,2[1],[1]2,PA0049,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,86523,86575,53,2[1],[1]3,PA0073,ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,98936,98975,40,2[1],[0]2,fha1,Fha domaincontaining protein
+31_breseq_pa01_a107_out,NC_002516,111722,111739,18,2[1],[1]2,vgrG1,type VI secretion system protein VgrG
+31_breseq_pa01_a107_out,NC_002516,151794,151816,23,2[1],[1]2,PA0133,HTHtype transcriptional activator BauR
+31_breseq_pa01_a107_out,NC_002516,158766,158822,57,3[1],[1]2,ahpC/ahpF,alkyl hydroperoxide reductase/alkyl hydroperoxide reductase
+31_breseq_pa01_a107_out,NC_002516,201457,201566,110,2[1],[1]2,aer2,aerotaxis transducer Aer2
+31_breseq_pa01_a107_out,NC_002516,206740,206806,67,2[1],[1]2,PA0181,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,217927,217998,72,2[1],[1]2,PA0191,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,226461,226476,16,2[1],[0]2,pntB,pyridine nucleotide transhydrogenase subunit beta
+31_breseq_pa01_a107_out,NC_002516,241956,242180,225,2[1],[1]2,PA0213,phosphoribosyldephosphoCoA transferase
+31_breseq_pa01_a107_out,NC_002516,260075,260080,6,2[1],[1]3,pcaB,"3carboxycis,cismuconate cycloisomerase"
+31_breseq_pa01_a107_out,NC_002516,272219,272307,89,2[1],[1]2,PA0241,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,321978,322044,67,2[1],[0]2,desA/gpuP,delta9 fatty acid desaturase DesA/3guanidinopropionate transporter
+31_breseq_pa01_a107_out,NC_002516,332954,332984,31,2[1],[1]3,PA0295/spuI,polyamine binding protein/glutamine synthetase
+31_breseq_pa01_a107_out,NC_002516,358729,358825,97,2[1],[1]2,PA0318,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,465575,465620,46,2[1],[0]2,PA0418,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,491966,492072,107,2[1],[1]2,codB/PA0439,cytosine permease/dihydropyrimidine dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,561642,561737,96,2[1],[1]2,bioF,8amino7oxononanoate synthase
+31_breseq_pa01_a107_out,NC_002516,575856,575885,30,2[0],[1]2,nirL,heme d1 biosynthesis protein NirL
+31_breseq_pa01_a107_out,NC_002516,580761,580866,106,2[0],[1]2,nirQ,denitrification regulatory protein NirQ
+31_breseq_pa01_a107_out,NC_002516,603533,603685,153,2[1],[0]2,[PA0545],[PA0545]
+31_breseq_pa01_a107_out,NC_002516,609148,609210,63,2[1],[1]2,PA0549,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,631581,631700,120,2[1],[1]2,PA0575,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,712341,712449,109,2[1],[1]2,PA0659,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,739771,739824,54,2[1],[1]2,PA0682,HxcX atypical pseudopilin
+31_breseq_pa01_a107_out,NC_002516,743059,743093,35,2[1],[1]2,PA0685,type II secretion system protein
+31_breseq_pa01_a107_out,NC_002516,745731,745841,111,2[1],[1]2,[PA0686][PA0687],"[PA0686], [PA0687]"
+31_breseq_pa01_a107_out,NC_002516,750848,750977,130,2[1],[1]2,PA0690,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,772084,772134,51,2[1],[1]2,PA0699,PpiCtype peptidylprolyl cistrans isomerase
+31_breseq_pa01_a107_out,NC_002516,774080,774243,164,2[1],[1]2,PA0701a,AraC family transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,801445,801526,82,2[1],[1]2,PA0733,16S rRNA pseudouridine(516) synthase
+31_breseq_pa01_a107_out,NC_002516,806934,806966,33,2[1],[0]2,sdsA1,SDS hydrolase SdsA1
+31_breseq_pa01_a107_out,NC_002516,815287,815302,16,2[1],[1]2,PA0747,aldehyde dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,819447,819478,32,2[1],[1]2,PA0751,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,821671,821687,17,2[1],[1]4,PA0753,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,824948,824990,43,2[1],[1]2,PA0756,twocomponent response regulator
+31_breseq_pa01_a107_out,NC_002516,826749,826771,23,2[1],[1]2,PA0758,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,845726,845780,55,2[1],[1]2,icp/PA0779,inhibitor of cysteine peptidase/ATPdependent protease
+31_breseq_pa01_a107_out,NC_002516,852226,852258,33,3[1],[1]2,putA,bifunctional proline dehydrogenase/pyrroline5carboxylate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,860497,860629,133,2[1],[1]2,PA0788,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,870095,870262,168,2[1],[0]2,[PA0793][PA0794],"[PA0793], [PA0794]"
+31_breseq_pa01_a107_out,NC_002516,879721,879883,163,2[1],[1]2,PA0801,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,887173,887257,85,2[1],[1]2,PA0809,divalent metal cation transporter MntH
+31_breseq_pa01_a107_out,NC_002516,893697,893760,64,2[1],[1]2,PA0815,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,902175,902196,22,2[0],[1]3,PA0827,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,907375,907397,23,2[0],[1]2,PA0832,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,910591,910675,85,2[1],[1]2,pta,phosphate acetyltransferase
+31_breseq_pa01_a107_out,NC_002516,929777,929934,158,2[1],[1]2,PA0851,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,937639,937705,67,2[1],[1]2,PA0859,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,939116,939234,119,2[0],[1]2,PA0860,ABC transporter ATPbinding protein/permease
+31_breseq_pa01_a107_out,NC_002516,951680,951803,124,2[1],[1]2,phhC,aromatic amino acid aminotransferase
+31_breseq_pa01_a107_out,NC_002516,959381,959465,85,2[1],[1]2,PA0876/PA0877,transcriptional regulator/transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,971615,971655,41,2[1],[1]2,[acsA],[acsA]
+31_breseq_pa01_a107_out,NC_002516,993337,993358,22,2[1],[1]2,PA0907/PA0908,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1021901,1021957,57,2[1],[1]2,ygcA,23S rRNA (uracil(1939)C(5))methyltransferase RlmD
+31_breseq_pa01_a107_out,NC_002516,1024760,1024810,51,2[1],[1]2,relA,GTP pyrophosphokinase
+31_breseq_pa01_a107_out,NC_002516,1036522,1036557,36,2[1],[1]2,PA0948,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1078735,1078760,26,2[1],[1]2,pqsA,anthranilateCoA ligase
+31_breseq_pa01_a107_out,NC_002516,1094364,1094458,95,2[1],[1]2,PA1011,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1100825,1100913,89,2[1],[1]2,PA1016/pauA,thiolase/pimeloylCoA synthetase
+31_breseq_pa01_a107_out,NC_002516,1122302,1122362,61,2[1],[1]3,[PA1033],[PA1033]
+31_breseq_pa01_a107_out,NC_002516,1129531,1129575,45,2[1],[1]2,PA1045,ATPdependent DNA helicase DinG
+31_breseq_pa01_a107_out,NC_002516,1141746,1141789,44,2[1],[1]2,PA1053/PA1054,hypothetical protein/monovalent cation/H+ antiporter subunit A
+31_breseq_pa01_a107_out,NC_002516,1154565,1154676,112,2[1],[1]2,PA1068,heat shock protein
+31_breseq_pa01_a107_out,NC_002516,1196061,1196092,32,2[1],[1]2,fliI,flagellumspecific ATP synthase
+31_breseq_pa01_a107_out,NC_002516,1223774,1223791,18,2[1],[1]2,PA1131,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,1239775,1239806,32,2[1],[1]2,PA1147,amino acid permease
+31_breseq_pa01_a107_out,NC_002516,1240550,1240601,52,2[1],[1]2,[toxA],[toxA]
+31_breseq_pa01_a107_out,NC_002516,1269945,1270012,68,2[1],[1]2,PA1170,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1272121,1272246,126,2[1],[1]2,[PA1171][napC],"[PA1171], [napC]"
+31_breseq_pa01_a107_out,NC_002516,1296216,1296370,155,2[1],[1]2,[PA1194][PA1195],"[PA1194], [PA1195]"
+31_breseq_pa01_a107_out,NC_002516,1315463,1315508,46,3[1],[0]2,PA1214,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1316479,1316539,61,2[1],[1]2,PA1215,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1321418,1321484,67,2[1],[1]2,PA1220,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1329505,1329612,108,2[1],[1]2,PA1227,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1330059,1330174,116,2[1],[1]2,[PA1228],[PA1228]
+31_breseq_pa01_a107_out,NC_002516,1333751,1333813,63,2[1],[1]2,PA1232,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1335502,1335581,80,2[1],[1]5,PA1234/PA1235,hypothetical protein/transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,1338318,1338411,94,2[1],[1]2,PA1237,multidrug resistance efflux pump
+31_breseq_pa01_a107_out,NC_002516,1338505,1338595,91,2[1],[1]2,PA1237,multidrug resistance efflux pump
+31_breseq_pa01_a107_out,NC_002516,1339453,1339765,313,2[1],[0]2,PA1238,multidrug efflux pump outer membrane protein
+31_breseq_pa01_a107_out,NC_002516,1346798,1346838,41,2[1],[0]3,PA1243,sensor/response regulator hybrid protein
+31_breseq_pa01_a107_out,NC_002516,1360592,1360682,91,2[1],[1]2,[PA1252],[PA1252]
+31_breseq_pa01_a107_out,NC_002516,1364631,1364699,69,2[0],[1]2,PA1256,amino acid ABC transporter ATP binding protein
+31_breseq_pa01_a107_out,NC_002516,1367095,1367239,145,2[1],[1]2,PA1259,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1375618,1375739,122,3[1],[1]2,PA1266,oxidoreductase
+31_breseq_pa01_a107_out,NC_002516,1377356,1377429,74,2[1],[1]2,PA1267,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1379911,1379977,67,2[1],[1]2,PA1270,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1386009,1386092,84,2[1],[1]2,PA1274,"5,6dimethylbenzimidazole synthase"
+31_breseq_pa01_a107_out,NC_002516,1390906,1390971,66,2[1],[1]2,cobU,nicotinatenucleotidedimethylbenzimidazole phosphoribosyltransferase
+31_breseq_pa01_a107_out,NC_002516,1416380,1416411,32,2[1],[0]2,PA1304,oligopeptidase
+31_breseq_pa01_a107_out,NC_002516,1423612,1423652,41,2[1],[1]2,PA1313,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,1439383,1439408,26,2[1],[1]2,PA1327,protease
+31_breseq_pa01_a107_out,NC_002516,1444538,1444563,26,2[1],[1]2,PA1331/PA1332,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1444963,1444984,22,2[1],[1]2,PA1332,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1463300,1463372,73,2[1],[1]2,PA1348,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1468175,1468198,24,2[0],[0]2,PA1354,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1475543,1475638,96,2[1],[1]2,PA1364,transmembrane sensor
+31_breseq_pa01_a107_out,NC_002516,1521183,1521274,92,3[1],[1]2,PA1400,pyruvate carboxylase
+31_breseq_pa01_a107_out,NC_002516,1522577,1522701,125,2[1],[1]2,PA1400,pyruvate carboxylase
+31_breseq_pa01_a107_out,NC_002516,1526372,1526498,127,2[1],[1]2,[PA1404],[PA1404]
+31_breseq_pa01_a107_out,NC_002516,1529307,1529352,46,2[0],[1]2,PA1406,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1542074,1542223,150,2[1],[0]2,PA1417,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1545205,1545306,102,2[1],[1]2,PA1419,transporter
+31_breseq_pa01_a107_out,NC_002516,1565129,1565231,103,2[1],[1]3,PA1436,resistancenodulationcell division (RND) efflux transporter
+31_breseq_pa01_a107_out,NC_002516,1567816,1567951,136,4[1],[1]3,[PA1437][PA1438],"[PA1437], [PA1438]"
+31_breseq_pa01_a107_out,NC_002516,1570693,1570770,78,2[1],[0]2,PA1441,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1570917,1570988,72,2[1],[1]2,PA1441,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1587710,1587885,176,2[1],[1]2,PA1458,twocomponent sensor
+31_breseq_pa01_a107_out,NC_002516,1589734,1589798,65,2[1],[0]2,PA1459,chemotaxisspecific methylesterase
+31_breseq_pa01_a107_out,NC_002516,1593338,1593404,67,2[1],[1]2,PA1463,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1593482,1593614,133,2[1],[1]2,PA1463,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1598977,1599001,25,2[1],[1]2,PA1470/PA1471,shortchain dehydrogenase/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1600929,1601049,121,2[1],[1]2,PA1474,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1603563,1603641,79,2[1],[1]3,ccmB/ccmC,heme exporter protein CcmB/heme exporter protein CcmC
+31_breseq_pa01_a107_out,NC_002516,1606219,1606280,62,2[1],[1]2,ccmF,cytochrome ctype biogenesis protein CcmF
+31_breseq_pa01_a107_out,NC_002516,1609165,1609243,79,2[1],[1]2,cycH,cytochrome ctype biogenesis protein CycH
+31_breseq_pa01_a107_out,NC_002516,1615605,1615660,56,2[0],[1]2,PA1488,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1623538,1623627,90,2[1],[1]2,PA1495,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1626811,1626837,27,2[1],[1]2,pykF,pyruvate kinase
+31_breseq_pa01_a107_out,NC_002516,1653056,1653080,25,2[1],[1]2,PA1520/PA1521,transcriptional regulator/guanine deaminase
+31_breseq_pa01_a107_out,NC_002516,1654349,1654472,124,2[1],[1]2,[PA1521],[PA1521]
+31_breseq_pa01_a107_out,NC_002516,1657514,1657532,19,2[1],[1]2,xdhB,xanthine dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,1671341,1671512,172,2[1],[1]2,dnaX,DNA polymerase III subunits gamma/tau
+31_breseq_pa01_a107_out,NC_002516,1699436,1699452,17,3[1],[1]2,aer,aerotaxis receptor Aer
+31_breseq_pa01_a107_out,NC_002516,1712255,1712392,138,2[1],[1]2,PA1570,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,1715203,1715288,86,2[1],[1]2,PA1575,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1727382,1727419,38,2[1],[1]2,sucB,2oxoglutarate dehydrogenase complex dihydrolipoyllysineresidue succinyltransferase
+31_breseq_pa01_a107_out,NC_002516,1742372,1742489,118,2[1],[1]2,PA1600,cytochrome C
+31_breseq_pa01_a107_out,NC_002516,1743072,1743150,79,2[1],[1]2,PA1600,cytochrome C
+31_breseq_pa01_a107_out,NC_002516,1751426,1751500,75,3[1],[1]2,PA1608,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,1756966,1757023,58,2[1],[1]3,PA1613,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1767432,1767586,155,2[1],[1]2,PA1624,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1769676,1769719,44,2[1],[1]2,PA1626,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,1781352,1781404,53,2[1],[0]2,kdpD,twocomponent sensor KdpD
+31_breseq_pa01_a107_out,NC_002516,1782177,1782308,132,2[1],[1]2,kdpD,twocomponent sensor KdpD
+31_breseq_pa01_a107_out,NC_002516,1788183,1788264,82,2[1],[1]2,selD,"selenide, water dikinase"
+31_breseq_pa01_a107_out,NC_002516,1788895,1788984,90,2[1],[1]2,PA1643,tRNA 2selenouridine synthase
+31_breseq_pa01_a107_out,NC_002516,1792124,1792219,96,2[0],[1]2,PA1646,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,1796512,1796537,26,2[0],[1]2,PA1649,shortchain dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,1796637,1796691,55,2[1],[1]2,PA1649,shortchain dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,1798237,1798306,70,2[1],[1]2,PA1651,transporter
+31_breseq_pa01_a107_out,NC_002516,1798812,1798851,40,2[1],[1]2,PA1651,transporter
+31_breseq_pa01_a107_out,NC_002516,1800204,1800350,147,2[1],[1]3,PA1653,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,1802652,1802660,9,2[1],[1]2,PA1655/PA1656,glutathione Stransferase/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1828403,1828488,86,2[1],[1]2,PA1678,50S ribosomal protein L3 glutamine methyltransferase
+31_breseq_pa01_a107_out,NC_002516,1830620,1830653,34,2[1],[1]2,PA1680,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1846100,1846128,29,2[1],[1]2,PA1697,type III secretion system ATPase
+31_breseq_pa01_a107_out,NC_002516,1849170,1849309,140,2[1],[1]2,PA1702,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1855014,1855089,76,2[1],[1]2,popD,translocator outer membrane protein PopD
+31_breseq_pa01_a107_out,NC_002516,1856183,1856206,24,2[1],[1]2,exsC,exoenzyme S synthesis protein ExsC
+31_breseq_pa01_a107_out,NC_002516,1907134,1907169,36,2[1],[1]2,PA1764,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1909213,1909257,45,2[1],[1]2,PA1765,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1923967,1924040,74,2[1],[1]2,PA1779,assimilatory nitrate reductase
+31_breseq_pa01_a107_out,NC_002516,1926644,1926823,180,2[1],[1]2,nirB,assimilatory nitrite reductase large subunit
+31_breseq_pa01_a107_out,NC_002516,1936400,1936414,15,2[1],[1]2,acnB,aconitate hydratase B
+31_breseq_pa01_a107_out,NC_002516,1952740,1952894,155,2[1],[1]2,tig,trigger factor
+31_breseq_pa01_a107_out,NC_002516,1961758,1961876,119,2[1],[1]4,fabI,NADHdependent enoylACP reductase
+31_breseq_pa01_a107_out,NC_002516,1984250,1984279,30,2[0],[1]2,PA1824,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1986393,1986464,72,4[1],[1]2,PA1827,shortchain dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,1989974,1990031,58,2[1],[1]2,PA1831,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1994924,1994938,15,2[1],[1]3,PA1837,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,1995686,1995775,90,2[1],[1]2,cysI,sulfite reductase
+31_breseq_pa01_a107_out,NC_002516,2013865,2013976,112,3[1],[1]2,PA1854,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2028593,2028668,76,2[1],[1]2,xphA,type VI pilus biosynthesis protein
+31_breseq_pa01_a107_out,NC_002516,2028850,2028870,21,2[1],[0]2,xphA,type VI pilus biosynthesis protein
+31_breseq_pa01_a107_out,NC_002516,2029922,2029968,47,2[0],[1]2,xqhA,secretion protein XqhA
+31_breseq_pa01_a107_out,NC_002516,2034124,2034166,43,2[1],[1]3,PA1872,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2034961,2035055,95,2[1],[1]2,PA1873,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2036894,2036925,32,2[1],[1]2,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2037576,2037730,155,2[1],[1]3,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2039080,2039210,131,2[1],[1]2,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2039725,2039810,86,2[0],[1]2,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2040162,2040339,178,2[1],[1]3,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2041341,2041400,60,2[1],[1]2,PA1874,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2045699,2045862,164,2[1],[1]2,PA1876,ABC transporter ATPbinding protein/permease
+31_breseq_pa01_a107_out,NC_002516,2062825,2062838,14,2[1],[1]2,PA1893,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2067904,2067941,38,3[0],[1]2,PA1896,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2079535,2079647,113,2[1],[1]2,PA1908,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2079961,2079992,32,2[1],[0]2,PA1908,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2083432,2083522,91,2[1],[1]2,femA,ferricmycobactin receptor FemA
+31_breseq_pa01_a107_out,NC_002516,2091915,2091986,72,3[1],[1]3,PA1918,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2092437,2092470,34,3[1],[1]2,PA1918,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2099220,2099228,9,2[1],[0]2,PA1922,TonBdependent receptor
+31_breseq_pa01_a107_out,NC_002516,2099666,2099861,196,2[1],[1]2,PA1923,cobaltochelatase subunit CobN
+31_breseq_pa01_a107_out,NC_002516,2100339,2100365,27,2[1],[0]2,PA1923,cobaltochelatase subunit CobN
+31_breseq_pa01_a107_out,NC_002516,2109376,2109409,34,2[1],[1]2,rimJ,ribosomal protein alanine acetyltransferase
+31_breseq_pa01_a107_out,NC_002516,2125397,2125432,36,2[1],[1]2,PA1941,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2132045,2132199,155,2[1],[1]2,rbsA,ribose transporter RbsA
+31_breseq_pa01_a107_out,NC_002516,2136319,2136432,114,2[1],[1]2,[rbsK],[rbsK]
+31_breseq_pa01_a107_out,NC_002516,2139016,2139044,29,2[1],[1]2,PA1953,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2142558,2142742,185,2[1],[1]2,PA1958,transporter
+31_breseq_pa01_a107_out,NC_002516,2146042,2146065,24,2[1],[1]2,azoR2,FMNdependent NADHazoreductase
+31_breseq_pa01_a107_out,NC_002516,2149110,2149226,117,2[1],[1]2,[PA1965],[PA1965]
+31_breseq_pa01_a107_out,NC_002516,2151084,2151147,64,2[1],[1]2,PA1969,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2167092,2167259,168,2[1],[1]2,[PA1981],[PA1981]
+31_breseq_pa01_a107_out,NC_002516,2179838,2180013,176,2[1],[1]2,[PA1993],[PA1993]
+31_breseq_pa01_a107_out,NC_002516,2184920,2184974,55,2[1],[1]2,dhcR,transcriptional regulator DhcR
+31_breseq_pa01_a107_out,NC_002516,2186909,2186969,61,2[1],[1]2,[dhcB],[dhcB]
+31_breseq_pa01_a107_out,NC_002516,2190087,2190202,116,2[1],[1]2,bdhA,3hydroxybutyrate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2192793,2192846,54,2[1],[1]2,PA2005,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2201349,2201380,32,2[1],[1]2,liuD,methylcrotonylCoA carboxylase subunit alpha
+31_breseq_pa01_a107_out,NC_002516,2210905,2210966,62,2[1],[1]2,PA2018,multidrug efflux protein
+31_breseq_pa01_a107_out,NC_002516,2218091,2218133,43,2[1],[1]2,[PA2026],[PA2026]
+31_breseq_pa01_a107_out,NC_002516,2245859,2245920,62,2[1],[0]2,PA2051,transmembrane sensor
+31_breseq_pa01_a107_out,NC_002516,2248316,2248340,25,2[1],[1]2,PA2055,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2271831,2271902,72,2[1],[0]2,PA2070,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2282413,2282463,51,2[1],[1]2,PA2075/PA2076,hypothetical protein/transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2284708,2284769,62,2[1],[1]2,PA2077,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2287296,2287384,89,2[1],[1]2,PA2078/PA2079,hypothetical protein/amino acid permease
+31_breseq_pa01_a107_out,NC_002516,2294781,2294925,145,2[1],[1]2,PA2084,asparagine synthetase
+31_breseq_pa01_a107_out,NC_002516,2305076,2305273,198,2[1],[1]2,PA2094,transmembrane sensor
+31_breseq_pa01_a107_out,NC_002516,2309515,2309544,30,3[1],[1]2,PA2098,esterase
+31_breseq_pa01_a107_out,NC_002516,2315936,2315962,27,2[1],[1]2,PA2104,cysteine synthase
+31_breseq_pa01_a107_out,NC_002516,2322644,2322691,48,2[0],[1]2,PA2111,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2326155,2326232,78,2[1],[1]2,PA2114/PA2115,major facilitator superfamily transporter/transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2330114,2330194,81,2[1],[1]2,ada,O6methylguanineDNA methyltransferase
+31_breseq_pa01_a107_out,NC_002516,2335911,2336003,93,2[1],[1]2,PA2123,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2343859,2343980,122,2[1],[1]2,[cupA2][cupA3],"[cupA2], [cupA3]"
+31_breseq_pa01_a107_out,NC_002516,2347118,2347132,15,2[0],[1]2,cupA4,fimbrial subunit CupA4
+31_breseq_pa01_a107_out,NC_002516,2350849,2351040,192,2[1],[1]2,PA2135,transporter
+31_breseq_pa01_a107_out,NC_002516,2353645,2353721,77,2[1],[1]2,PA2138,multifunctional nonhomologous end joining protein LigD
+31_breseq_pa01_a107_out,NC_002516,2366471,2366584,114,2[1],[1]2,PA2151,"alpha1,4glucan:maltose1phosphate maltosyltransferase"
+31_breseq_pa01_a107_out,NC_002516,2370190,2370234,45,2[1],[1]2,PA2152,trehalose synthase
+31_breseq_pa01_a107_out,NC_002516,2371392,2371558,167,2[1],[1]3,[PA2152][glgB],"[PA2152], [glgB]"
+31_breseq_pa01_a107_out,NC_002516,2371994,2372151,158,2[1],[1]2,glgB,"1,4alphaglucan branching protein GlgB"
+31_breseq_pa01_a107_out,NC_002516,2376640,2376872,233,3[1],[1]2,PA2157,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2383436,2383478,43,2[1],[1]2,PA2162,maltooligosyltrehalose synthase
+31_breseq_pa01_a107_out,NC_002516,2384701,2384723,23,2[1],[1]3,PA2163,4alphaglucanotransferase
+31_breseq_pa01_a107_out,NC_002516,2392078,2392105,28,2[0],[1]2,PA2168,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2393559,2393640,82,2[1],[1]3,[PA2170],[PA2170]
+31_breseq_pa01_a107_out,NC_002516,2406985,2407176,192,2[1],[1]2,katN/PA2187,nonheme catalase KatN/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2408039,2408191,153,2[1],[1]2,PA2188,alcohol dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2430150,2430177,28,2[1],[1]2,PA2210,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2452567,2452680,114,2[1],[1]3,PA2230,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2459220,2459241,22,2[1],[1]2,pslE,biofilm formation protein PslE
+31_breseq_pa01_a107_out,NC_002516,2467087,2467193,107,2[1],[1]2,pslK,biofilm formation protein PslL
+31_breseq_pa01_a107_out,NC_002516,2469692,2469716,25,2[1],[0]2,pslM,FADbinding dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2470133,2470230,98,2[1],[1]2,pslM,FADbinding dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2470684,2470817,134,2[1],[1]2,pslM,FADbinding dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2471434,2471535,102,2[1],[1]2,pslN,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2473095,2473126,32,2[1],[1]2,bkdR/bkdA1,Bkd operon transcriptional regulator BkdR/2oxoisovalerate dehydrogenase subunit alpha
+31_breseq_pa01_a107_out,NC_002516,2477980,2478053,74,2[1],[1]2,lpdV,branchedchain alphaketo acid dehydrogenase complex dihydrolipoyl dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2480731,2480781,51,2[1],[1]2,[PA2252],[PA2252]
+31_breseq_pa01_a107_out,NC_002516,2483881,2483956,76,2[1],[1]2,[pvcB],[pvcB]
+31_breseq_pa01_a107_out,NC_002516,2492508,2492608,101,2[1],[1]2,PA2263,2hydroxyacid dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2492779,2492874,96,2[1],[1]2,PA2263,2hydroxyacid dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2495150,2495160,11,2[0],[1]2,PA2265,gluconate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2503406,2503514,109,2[1],[1]3,[pbpC][soxR],"[pbpC], [soxR]"
+31_breseq_pa01_a107_out,NC_002516,2513552,2513660,109,2[1],[1]2,PA2285,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2513977,2514071,95,2[1],[1]2,PA2286,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2519870,2519921,52,2[1],[1]2,gcd,glucose dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2523252,2523474,223,2[1],[1]2,PA2293,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2524003,2524123,121,2[1],[1]2,PA2293,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2526192,2526232,41,3[1],[1]2,PA2296,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2532352,2532533,182,2[1],[1]2,PA2301,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2532636,2532656,21,2[1],[1]2,PA2301/ambE,hypothetical protein/protein AmbE
+31_breseq_pa01_a107_out,NC_002516,2532792,2532942,151,2[1],[1]2,ambE,protein AmbE
+31_breseq_pa01_a107_out,NC_002516,2533359,2533445,87,2[1],[1]2,ambE,protein AmbE
+31_breseq_pa01_a107_out,NC_002516,2535749,2535921,173,2[1],[1]2,ambE,protein AmbE
+31_breseq_pa01_a107_out,NC_002516,2538898,2538953,56,2[1],[1]2,ambE,protein AmbE
+31_breseq_pa01_a107_out,NC_002516,2542094,2542191,98,2[0],[1]3,ambB,protein AmbB
+31_breseq_pa01_a107_out,NC_002516,2544068,2544076,9,2[1],[1]2,ambB,protein AmbB
+31_breseq_pa01_a107_out,NC_002516,2544227,2544466,240,2[1],[1]2,ambB,protein AmbB
+31_breseq_pa01_a107_out,NC_002516,2547910,2547991,82,2[1],[1]2,PA2309,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2550582,2550590,9,2[1],[0]2,PA2312/PA2312a,transcriptional regulator/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2553390,2553491,102,2[1],[1]2,PA2315,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2558370,2558491,122,2[1],[1]2,PA2319/gntR,transposase/GntR family transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2558629,2558701,73,2[1],[1]2,PA2319/gntR,transposase/GntR family transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2559200,2559276,77,2[1],[1]2,gntR,GntR family transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2563568,2563635,68,2[1],[1]2,PA2323,glyceraldehyde3phosphate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2572549,2572693,145,2[1],[1]2,PA2330,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2573019,2573096,78,2[1],[1]2,PA2331,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2576378,2576559,182,2[1],[1]2,PA2334,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2580171,2580285,115,2[0],[1]2,PA2336,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2586197,2586220,24,2[1],[1]2,PA2341,maltose ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,2587856,2587887,32,2[1],[1]2,mtlD,mannitol dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2589339,2589374,36,3[1],[1]2,mtlY,xylulose kinase
+31_breseq_pa01_a107_out,NC_002516,2590847,2590878,32,2[1],[1]2,PA2345,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2592250,2592362,113,3[1],[1]2,PA2346,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2592621,2592743,123,2[1],[0]2,PA2346,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2604057,2604123,67,2[1],[1]3,msuD,methanesulfonate monooxygenase
+31_breseq_pa01_a107_out,NC_002516,2608144,2608238,95,2[1],[0]2,[PA2360][PA2361],"[PA2360], [PA2361]"
+31_breseq_pa01_a107_out,NC_002516,2611915,2611957,43,2[1],[1]2,PA2361,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2612824,2612844,21,2[0],[1]2,PA2363,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2617605,2617646,42,2[1],[0]2,PA2368,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2618203,2618351,149,2[1],[0]2,PA2369,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2619160,2619194,35,2[1],[1]2,PA2369,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2627786,2627840,55,3[1],[1]2,PA2376,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2629211,2629285,75,2[1],[1]2,PA2377,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2632176,2632273,98,2[1],[1]2,[PA2378][PA2379],"[PA2378], [PA2379]"
+31_breseq_pa01_a107_out,NC_002516,2632927,2632942,16,2[1],[1]3,PA2379/PA2380,oxidoreductase/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2635568,2635694,127,2[1],[1]2,PA2383,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2637202,2637347,146,2[1],[1]2,pvdQ,acylhomoserine lactone acylase PvdQ
+31_breseq_pa01_a107_out,NC_002516,2643178,2643272,95,2[1],[1]2,pvdR,pyoverdine biosynthesis protein PvdR
+31_breseq_pa01_a107_out,NC_002516,2643810,2643900,91,2[1],[1]2,pvdT,pyoverdine biosynthesis protein PvdT
+31_breseq_pa01_a107_out,NC_002516,2646257,2646295,39,2[1],[1]2,opmQ,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2691904,2692068,165,2[1],[1]2,PA2409,ABC transporter permease
+31_breseq_pa01_a107_out,NC_002516,2693684,2693739,56,2[1],[1]2,PA2410/PA2411,hypothetical protein/thioesterase
+31_breseq_pa01_a107_out,NC_002516,2696541,2696570,30,2[1],[1]2,PA2414,Lsorbosone dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2709260,2709415,156,2[1],[1]2,pvdL,peptide synthase
+31_breseq_pa01_a107_out,NC_002516,2710322,2710420,99,4[1],[1]2,pvdL,peptide synthase
+31_breseq_pa01_a107_out,NC_002516,2725379,2725402,24,2[1],[1]2,PA2430,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2725491,2725563,73,2[1],[1]2,PA2430,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2730978,2731055,78,2[1],[1]3,PA2435,cationtransporting Ptype ATPase
+31_breseq_pa01_a107_out,NC_002516,2731748,2731843,96,2[1],[1]2,PA2435,cationtransporting Ptype ATPase
+31_breseq_pa01_a107_out,NC_002516,2733161,2733294,134,2[1],[1]2,PA2437,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2738548,2738586,39,3[1],[1]2,PA2440,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2740177,2740338,162,2[1],[1]2,gcvT2,glycine cleavage system protein T2
+31_breseq_pa01_a107_out,NC_002516,2745724,2745860,137,2[1],[1]2,gcvP2,glycine dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2750167,2750273,107,2[1],[0]2,PA2449,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2753097,2753165,69,2[1],[1]2,PA2450/PA2453,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2765162,2765233,72,2[1],[1]2,PA2462,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2783567,2783654,88,2[1],[1]2,foxA,ferrioxamine receptor FoxA
+31_breseq_pa01_a107_out,NC_002516,2790140,2790202,63,2[1],[1]2,PA2472,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2790692,2790781,90,2[1],[1]2,PA2472,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2790933,2791028,96,2[1],[1]2,PA2472,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,2796934,2797144,211,2[1],[1]2,PA2478,thiol:disulfide interchange protein DsbD
+31_breseq_pa01_a107_out,NC_002516,2804518,2804615,98,2[1],[1]2,PA2488,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2809674,2809753,80,2[1],[1]2,mexE,resistancenodulationcell division (RND) multidrug efflux membrane fusion protein MexE
+31_breseq_pa01_a107_out,NC_002516,2819821,2819898,78,2[1],[1]2,PA2502,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2820714,2820774,61,2[1],[1]2,PA2503,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2837261,2837288,28,2[1],[1]2,xylS/czcA,transcriptional regulator XylS/resistancenodulationcell division (RND) divalent metal cation efflux transporter CzcA
+31_breseq_pa01_a107_out,NC_002516,2847424,2847522,99,2[1],[1]2,PA2525,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2850518,2850568,51,2[0],[1]2,PA2526,resistancenodulationcell division (RND) efflux transporter
+31_breseq_pa01_a107_out,NC_002516,2856172,2856238,67,2[1],[1]2,PA2529,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2857286,2857545,260,2[1],[1]2,PA2530,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2858439,2858459,21,2[1],[1]2,PA2530/PA2531,hypothetical protein/aminotransferase
+31_breseq_pa01_a107_out,NC_002516,2860299,2860313,15,3[1],[1]2,tpx/PA2533,2Cys peroxiredoxin/sodium:alanine symporter
+31_breseq_pa01_a107_out,NC_002516,2862280,2862333,54,2[1],[1]2,PA2534,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2863951,2864199,249,3[1],[1]2,[PA2536],[PA2536]
+31_breseq_pa01_a107_out,NC_002516,2870457,2870499,43,2[1],[1]3,PA2542,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2873254,2873324,71,2[1],[1]3,PA2542,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2873476,2873506,31,3[1],[1]2,PA2542,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2874371,2874461,91,2[1],[1]2,PA2543,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2875633,2875796,164,2[1],[1]2,[PA2544],[PA2544]
+31_breseq_pa01_a107_out,NC_002516,2892133,2892159,27,2[1],[1]2,PA2557/PA2558,AMPbinding protein/transporter
+31_breseq_pa01_a107_out,NC_002516,2912714,2912746,33,2[1],[1]2,PA2575,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2933202,2933332,131,4[1],[1]3,PA2590,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2944482,2944513,32,3[1],[1]2,PA2601,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,2960175,2960232,58,2[1],[1]2,trxB1,thioredoxin reductase
+31_breseq_pa01_a107_out,NC_002516,2962239,2962299,61,2[1],[1]2,infA/clpA,translation initiation factor IF1/ATPbinding protease component ClpA
+31_breseq_pa01_a107_out,NC_002516,2965901,2965993,93,2[1],[1]2,icd,isocitrate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,2975682,2975734,53,2[1],[1]2,[PA2631][PA2632],"[PA2631], [PA2632]"
+31_breseq_pa01_a107_out,NC_002516,2979877,2979964,88,2[1],[1]2,PA2635,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,2983865,2983922,58,2[1],[1]2,[nuoB],[nuoB]
+31_breseq_pa01_a107_out,NC_002516,2994070,2994158,89,2[1],[1]2,nuoL,NADHquinone oxidoreductase subunit L
+31_breseq_pa01_a107_out,NC_002516,2998469,2998524,56,2[1],[0]2,PA2650,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3003172,3003313,142,2[1],[1]3,[PA2653],[PA2653]
+31_breseq_pa01_a107_out,NC_002516,3005207,3005245,39,2[1],[1]2,PA2654,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,3005696,3005733,38,2[1],[1]2,PA2655,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3010392,3010471,80,2[1],[1]2,PA2661,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3011709,3011887,179,2[1],[1]2,PA2662,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3035257,3035357,101,3[1],[1]2,PA2684,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3040620,3040788,169,2[1],[1]3,pfeA,ferric enterobactin receptor
+31_breseq_pa01_a107_out,NC_002516,3047899,3047961,63,2[1],[1]2,PA2694,thioredoxin
+31_breseq_pa01_a107_out,NC_002516,3053635,3053832,198,2[1],[1]2,[PA2699],[PA2699]
+31_breseq_pa01_a107_out,NC_002516,3059820,3059849,30,2[1],[1]2,PA2705,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3070703,3070828,126,2[1],[1]2,[PA2715][PA2716],"[PA2715], [PA2716]"
+31_breseq_pa01_a107_out,NC_002516,3073285,3073338,54,2[1],[1]2,PA2718,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3087327,3087448,122,2[1],[1]2,PA2729,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3096846,3096890,45,3[1],[1]2,PA2735,restrictionmodification system protein
+31_breseq_pa01_a107_out,NC_002516,3111997,3112053,57,2[1],[1]2,PA2750,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3114483,3114671,189,2[1],[1]2,PA2752,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3135785,3135822,38,2[0],[1]2,PA2777,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3141012,3141207,196,3[1],[1]2,PA2783,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3143177,3143359,183,2[1],[1]2,cpg2,glutamate carboxypeptidase
+31_breseq_pa01_a107_out,NC_002516,3145446,3145509,64,2[1],[1]2,PA2788,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,3189381,3189451,71,2[1],[1]3,PA2836,secretion protein
+31_breseq_pa01_a107_out,NC_002516,3193280,3193416,137,2[1],[1]2,PA2839,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3199101,3199151,51,2[1],[1]2,PA2844,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3199834,3199862,29,2[1],[1]2,PA2844,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3204377,3204484,108,2[1],[1]2,[ohr],[ohr]
+31_breseq_pa01_a107_out,NC_002516,3209467,3209513,47,2[1],[1]2,PA2857,ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,3228970,3229019,50,2[1],[1]2,PA2875,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3232424,3232568,145,2[1],[1]3,PA2879,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3235433,3235462,30,2[1],[1]2,PA2882/PA2883,twocomponent sensor/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3237929,3237967,39,2[1],[1]2,atuA,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3244081,3244125,45,2[1],[1]2,atuE,isohexenylglutaconylCoA hydratase
+31_breseq_pa01_a107_out,NC_002516,3249361,3249537,177,2[1],[1]2,PA2894,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3250359,3250406,48,2[1],[1]2,PA2895,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3253477,3253522,46,2[1],[1]2,PA2898,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3259458,3259574,117,2[1],[1]2,cobH,precorrin8X methylmutase
+31_breseq_pa01_a107_out,NC_002516,3263500,3263597,98,2[1],[1]2,cbiD,cobaltprecorrin5B C(1)methyltransferase
+31_breseq_pa01_a107_out,NC_002516,3271852,3271997,146,2[1],[1]3,PA2916,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3274910,3274958,49,2[1],[1]2,PA2920,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,3275630,3275777,148,3[1],[1]2,PA2920,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,3284288,3284365,78,2[1],[1]4,PA2928,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3295896,3295927,32,2[1],[1]2,PA2939/PA2940,aminopeptidase/acylCoA thiolase
+31_breseq_pa01_a107_out,NC_002516,3304809,3304918,110,2[1],[1]2,PA2945,cobalamin biosynthesis protein CobW
+31_breseq_pa01_a107_out,NC_002516,3305427,3305441,15,2[1],[1]2,PA2945,cobalamin biosynthesis protein CobW
+31_breseq_pa01_a107_out,NC_002516,3309142,3309203,62,2[1],[1]2,PA2949,lipase
+31_breseq_pa01_a107_out,NC_002516,3311113,3311311,199,2[0],[1]2,etfA,electron transfer flavoprotein subunit alpha
+31_breseq_pa01_a107_out,NC_002516,3335215,3335321,107,2[1],[1]2,rne,ribonuclease E
+31_breseq_pa01_a107_out,NC_002516,3338169,3338281,113,2[1],[1]2,kdsB,3deoxymannooctulosonate cytidylyltransferase
+31_breseq_pa01_a107_out,NC_002516,3338995,3339077,83,2[1],[1]2,lpxK,tetraacyldisaccharide 4'kinase
+31_breseq_pa01_a107_out,NC_002516,3342438,3342510,73,2[1],[1]2,PA2984,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3359624,3359648,25,3[1],[1]2,PA3001,glyceraldehyde3phosphate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,3362021,3362052,32,2[1],[1]2,mfd,transcriptionrepair coupling factor
+31_breseq_pa01_a107_out,NC_002516,3366208,3366599,392,2[1],[1]2,nagZ,betahexosaminidase
+31_breseq_pa01_a107_out,NC_002516,3384675,3384776,102,2[1],[1]2,PA3022,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3387962,3387976,15,2[0],[1]2,PA3025,FADdependent glycerol3phosphate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,3388913,3388988,76,2[1],[1]2,PA3025,FADdependent glycerol3phosphate dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,3420187,3420259,73,2[1],[1]2,[PA3054],[PA3054]
+31_breseq_pa01_a107_out,NC_002516,3424917,3425024,108,2[1],[1]2,pelE,pellicle/biofilm biosynthesis protein PelE
+31_breseq_pa01_a107_out,NC_002516,3446894,3446976,83,2[1],[1]2,PA3074,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3450218,3450311,94,2[1],[1]2,PA3076,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3467311,3467328,18,2[0],[1]4,PA3089,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3470574,3470618,45,2[1],[1]2,PA3091/fadH1,"hypothetical protein/2,4dienoylCoA reductase"
+31_breseq_pa01_a107_out,NC_002516,3476289,3476324,36,2[1],[1]2,xcpZ,type II secretion system protein M
+31_breseq_pa01_a107_out,NC_002516,3485006,3485049,44,2[1],[1]2,xcpQ,type II secretion system protein D
+31_breseq_pa01_a107_out,NC_002516,3489715,3489766,52,2[1],[1]3,purF,amidophosphoribosyltransferase
+31_breseq_pa01_a107_out,NC_002516,3490133,3490215,83,2[1],[1]2,[PA3109],[PA3109]
+31_breseq_pa01_a107_out,NC_002516,3495115,3495408,294,2[1],[1]3,truA,tRNA pseudouridine synthase A
+31_breseq_pa01_a107_out,NC_002516,3496143,3496206,64,2[1],[1]2,fimV,motility protein FimV
+31_breseq_pa01_a107_out,NC_002516,3496877,3497058,182,2[1],[1]2,fimV,motility protein FimV
+31_breseq_pa01_a107_out,NC_002516,3499293,3499488,196,2[1],[1]2,[PA3116][asd],"[PA3116], [asd]"
+31_breseq_pa01_a107_out,NC_002516,3503228,3503287,60,2[1],[0]4,[leuD],[leuD]
+31_breseq_pa01_a107_out,NC_002516,3517964,3518026,63,2[1],[1]2,PA3136,secretion protein
+31_breseq_pa01_a107_out,NC_002516,3560823,3560878,56,3[1],[0]2,PA3170,Nethylammeline chlorohydrolase
+31_breseq_pa01_a107_out,NC_002516,3569132,3569355,224,2[1],[1]2,PA3179,ribosomal large subunit pseudouridine synthase B
+31_breseq_pa01_a107_out,NC_002516,3571967,3572111,145,2[1],[1]2,pgl,6phosphogluconolactonase
+31_breseq_pa01_a107_out,NC_002516,3574871,3574888,18,2[1],[1]2,PA3185,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3577603,3577706,104,2[1],[1]2,PA3187,ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,3589270,3589329,60,2[1],[1]2,[PA3196],[PA3196]
+31_breseq_pa01_a107_out,NC_002516,3596690,3596782,93,2[1],[1]2,PA3206,twocomponent sensor
+31_breseq_pa01_a107_out,NC_002516,3597655,3597728,74,2[1],[0]2,PA3207,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3613102,3613143,42,2[1],[1]2,PA3225,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3661451,3661548,98,2[1],[1]2,PA3271,twocomponent sensor
+31_breseq_pa01_a107_out,NC_002516,3663907,3664000,94,2[1],[1]2,PA3272,ATPdependent DNA helicase
+31_breseq_pa01_a107_out,NC_002516,3668542,3668660,119,2[1],[1]2,PA3274,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3685914,3686051,138,2[1],[0]3,PA3293,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3708130,3708236,107,2[1],[1]2,PA3308,RNA polymeraseassociated protein RapA
+31_breseq_pa01_a107_out,NC_002516,3716823,3716953,131,2[1],[1]2,PA3314,phosphonates ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,3717457,3717554,98,2[1],[1]2,PA3314,phosphonates ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,3722546,3722597,52,2[1],[1]2,plcN,nonhemolytic phospholipase C
+31_breseq_pa01_a107_out,NC_002516,3733309,3733453,145,2[1],[1]2,PA3327,nonribosomal peptide synthetase
+31_breseq_pa01_a107_out,NC_002516,3738892,3739036,145,2[1],[1]2,PA3329,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3750655,3750787,133,2[1],[1]2,PA3340,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3769171,3769312,142,2[1],[1]2,dsdA,Dserine dehydratase
+31_breseq_pa01_a107_out,NC_002516,3782725,3782809,85,3[1],[1]2,PA3374,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3793173,3793212,40,2[1],[1]2,PA3388,Sadenosylmethioninedependent methyltransferase RcsF
+31_breseq_pa01_a107_out,NC_002516,3817787,3817887,101,2[1],[1]2,PA3409,transmembrane sensor
+31_breseq_pa01_a107_out,NC_002516,3825239,3825272,34,2[0],[1]2,ldh,leucine dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,3826014,3826130,117,2[1],[1]3,[PA3419],[PA3419]
+31_breseq_pa01_a107_out,NC_002516,3828155,3828249,95,2[0],[1]3,PA3420,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3835967,3836088,122,2[1],[1]2,PA3426,enoylCoA hydratase
+31_breseq_pa01_a107_out,NC_002516,3844474,3844572,99,2[1],[1]2,PA3436,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3847677,3847741,65,2[0],[1]2,[PA3441],[PA3441]
+31_breseq_pa01_a107_out,NC_002516,3848517,3848593,77,3[1],[1]2,PA3442,aliphatic sulfonates ABC transporter ATPbinding subunit
+31_breseq_pa01_a107_out,NC_002516,3853726,3853749,24,2[1],[1]2,PA3448,ABC transporter permease
+31_breseq_pa01_a107_out,NC_002516,3854296,3854376,81,2[0],[1]2,PA3449,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,3874573,3874700,128,2[1],[1]2,[PA3464],[PA3464]
+31_breseq_pa01_a107_out,NC_002516,3909083,3909232,150,2[1],[1]2,PA3491,electron transport complex subunit C
+31_breseq_pa01_a107_out,NC_002516,3910761,3910843,83,2[1],[1]2,PA3492,electron transport complex subunit D
+31_breseq_pa01_a107_out,NC_002516,3911225,3911271,47,2[1],[1]2,PA3492,electron transport complex subunit D
+31_breseq_pa01_a107_out,NC_002516,3934211,3934323,113,2[1],[1]2,PA3517,adenylosuccinate lyase
+31_breseq_pa01_a107_out,NC_002516,3947100,3947201,102,2[1],[1]2,pyrC,dihydroorotase
+31_breseq_pa01_a107_out,NC_002516,3968217,3968309,93,2[1],[1]2,algK,alginate biosynthesis protein AlgK
+31_breseq_pa01_a107_out,NC_002516,3996938,3996954,17,2[1],[1]2,PA3565,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3997083,3997147,65,2[1],[1]2,PA3565,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,3998334,3998398,65,2[0],[1]2,PA3567,oxidoreductase
+31_breseq_pa01_a107_out,NC_002516,4002347,4002378,32,2[1],[1]2,mmsA,methylmalonatesemialdehyde dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,4004038,4004235,198,2[1],[1]2,mmsR,transcriptional regulator MmsR
+31_breseq_pa01_a107_out,NC_002516,4037007,4037074,68,2[0],[1]2,PA3602,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4123031,4123165,135,2[0],[1]2,PA3680,ribosomal RNA small subunit methyltransferase J
+31_breseq_pa01_a107_out,NC_002516,4171705,4171743,39,2[1],[1]2,recJ,singlestrandedDNAspecific exonuclease RecJ
+31_breseq_pa01_a107_out,NC_002516,4182203,4182246,44,2[1],[1]2,PA3731,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4193254,4193335,82,2[0],[1]3,PA3739,sodium/hydrogen antiporter
+31_breseq_pa01_a107_out,NC_002516,4212317,4212460,144,2[1],[1]2,PA3760,NacetylDglucosamine phosphotransferase system transporter
+31_breseq_pa01_a107_out,NC_002516,4225501,4225594,94,2[1],[1]2,PA3768/guaA,metallooxidoreductase/GMP synthase
+31_breseq_pa01_a107_out,NC_002516,4236254,4236341,88,2[0],[0]2,xseA,exodeoxyribonuclease VII large subunit
+31_breseq_pa01_a107_out,NC_002516,4238709,4238778,70,2[1],[1]2,[PA3779],[PA3779]
+31_breseq_pa01_a107_out,NC_002516,4246031,4246067,37,2[1],[1]2,PA3788,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4323911,4323958,48,2[1],[1]2,dauA,FADdependent catabolic Darginine dehydrogenase DauA
+31_breseq_pa01_a107_out,NC_002516,4335230,4335266,37,2[1],[1]3,PA3871/narI,PpiCtype peptidylprolyl cistrans isomerase/respiratory nitrate reductase subunit gamma
+31_breseq_pa01_a107_out,NC_002516,4369172,4369299,128,2[1],[1]2,fecA,Fe(III) dicitrate transporter FecA
+31_breseq_pa01_a107_out,NC_002516,4384809,4384874,66,2[1],[1]2,moeA1,molybdenum cofactor biosynthesis protein A
+31_breseq_pa01_a107_out,NC_002516,4419002,4419107,106,2[1],[1]2,PA3941,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4436595,4436688,94,2[1],[1]2,PA3957,shortchain dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,4438500,4438573,74,2[1],[1]2,[PA3958],[PA3958]
+31_breseq_pa01_a107_out,NC_002516,4448852,4448893,42,2[1],[1]2,[amn],[amn]
+31_breseq_pa01_a107_out,NC_002516,4493339,4493400,62,3[1],[0]2,PA4013,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4495972,4496082,111,2[0],[1]3,PA4016,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4503818,4503837,20,2[1],[1]2,PA4022/PA4023,aldehyde dehydrogenase/transporter
+31_breseq_pa01_a107_out,NC_002516,4562157,4562232,76,2[1],[1]2,cupB5,adhesive protein CupB5
+31_breseq_pa01_a107_out,NC_002516,4580133,4580300,168,2[1],[1]2,PA4097,alcohol dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,4588587,4588706,120,2[1],[1]2,PA4104/PA4105,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4596936,4597051,116,2[1],[1]2,PA4112,sensor/response regulator hybrid protein
+31_breseq_pa01_a107_out,NC_002516,4625814,4625847,34,2[1],[1]2,PA4136,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,4636828,4636910,83,2[0],[1]2,PA4144,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4640441,4640542,102,2[1],[1]2,acoR,transcriptional regulator AcoR
+31_breseq_pa01_a107_out,NC_002516,4649773,4649792,20,2[1],[1]2,PA4155,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4654723,4654755,33,2[1],[1]2,fepB,ironenterobactin transporter periplasmic binding protein
+31_breseq_pa01_a107_out,NC_002516,4686126,4686228,103,2[1],[1]2,PA4189,aldehyde dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,4688856,4688888,33,2[1],[1]2,pqsL/PA4191,monooxygenase/iron/ascorbate oxidoreductase
+31_breseq_pa01_a107_out,NC_002516,4694323,4694402,80,2[1],[1]2,bfiS,protein BfiS
+31_breseq_pa01_a107_out,NC_002516,4722906,4722943,38,2[1],[1]3,PA4219,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4729379,4729475,97,2[1],[1]2,PA4223,ABC transporter ATPbinding protein
+31_breseq_pa01_a107_out,NC_002516,4732102,4732162,61,2[1],[1]2,pchF,pyochelin synthetase
+31_breseq_pa01_a107_out,NC_002516,4734832,4734871,40,2[1],[1]2,pchF,pyochelin synthetase
+31_breseq_pa01_a107_out,NC_002516,4736010,4736136,127,2[0],[1]4,pchF,pyochelin synthetase
+31_breseq_pa01_a107_out,NC_002516,47886524789053,47927534789122,704102,2[1],[0]11,[PA4280.1][PA4280.5],"[PA4280.1], PA4280.2, PA4280.3, PA4280.4, [PA4280.5]"
+31_breseq_pa01_a107_out,NC_002516,4805629,4805673,45,2[0],[1]2,recC,exodeoxyribonuclease V subunit gamma
+31_breseq_pa01_a107_out,NC_002516,4809192,4809240,49,2[1],[1]2,PA4286,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,4811477,4811647,171,2[1],[1]2,PA4289,transporter
+31_breseq_pa01_a107_out,NC_002516,48331444833214,4833318,105175,2[1],[1]2,[pctC],[pctC]
+31_breseq_pa01_a107_out,NC_002516,4925201,4925223,23,4[0],[1]2,PA4394/PA4395,hypothetical protein/nucleotidebinding protein
+31_breseq_pa01_a107_out,NC_002516,4930699,4930772,74,2[1],[1]3,[PA4400],[PA4400]
+31_breseq_pa01_a107_out,NC_002516,4972026,4972090,65,2[1],[1]2,trpS,tryptophantRNA ligase
+31_breseq_pa01_a107_out,NC_002516,4980433,4980576,144,2[1],[1]2,algW,AlgW protein
+31_breseq_pa01_a107_out,NC_002516,5003536,5003618,83,2[1],[1]2,PA4474,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5011392,5011429,38,2[1],[1]2,mreC,rod shapedetermining protein MreC
+31_breseq_pa01_a107_out,NC_002516,5012661,5012716,56,2[1],[1]2,mreB,rod shapedetermining protein MreB
+31_breseq_pa01_a107_out,NC_002516,5012900,5012987,88,2[1],[1]2,mreB,rod shapedetermining protein MreB
+31_breseq_pa01_a107_out,NC_002516,5016866,5017085,220,2[1],[1]2,[gatB][PA4485],"[gatB], [PA4485]"
+31_breseq_pa01_a107_out,NC_002516,5049025,5049052,28,2[1],[1]2,PA4511,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5051706,5051741,36,2[1],[1]2,PA4513,oxidoreductase
+31_breseq_pa01_a107_out,NC_002516,5057211,5057290,80,2[1],[1]2,PA4516,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5061769,5061882,114,2[1],[1]2,PA4520,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,5081492,5081524,33,2[1],[1]2,PA4540,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5083824,5083869,46,2[1],[1]2,PA4541,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5144050,5144099,50,2[1],[1]2,PA4592,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5156692,5156800,109,2[1],[1]2,morA,motility regulator
+31_breseq_pa01_a107_out,NC_002516,5163504,5163516,13,2[1],[0]2,PA4604/PA4605,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5168894,5169077,184,2[1],[1]2,PA4610,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5190780,5190896,117,2[1],[1]2,PA4625,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5195090,5195168,79,2[1],[1]2,PA4627,16S rRNA methyltransferase
+31_breseq_pa01_a107_out,NC_002516,5221703,5221926,224,2[1],[1]2,PA4654,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,5222393,5222414,22,2[1],[1]2,PA4654/hemH,major facilitator superfamily transporter/ferrochelatase
+31_breseq_pa01_a107_out,NC_002516,5249394,5249450,57,3[1],[1]2,PA4680,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5250225,5250293,69,3[1],[1]2,PA4681,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5258042,5258094,53,2[1],[1]2,hitA,ferric ironbinding periplasmic protein HitA
+31_breseq_pa01_a107_out,NC_002516,5294987,5295015,29,2[1],[1]2,[PA4715],[PA4715]
+31_breseq_pa01_a107_out,NC_002516,5393749,5393866,118,2[1],[1]2,selB,selenocysteinespecific elongation factor
+31_breseq_pa01_a107_out,NC_002516,5407536,5407650,115,2[1],[1]2,PA4817,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5415131,5415207,77,2[1],[1]2,PA4824,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5431292,5431344,53,2[1],[1]2,PA4838/speA,hypothetical protein/arginine decarboxylase
+31_breseq_pa01_a107_out,NC_002516,5454874,5454893,20,2[1],[1]2,retS,sensor histidine kinase MifS
+31_breseq_pa01_a107_out,NC_002516,5465267,5465319,53,2[1],[1]2,ureC,urease subunit alpha
+31_breseq_pa01_a107_out,NC_002516,5497479,5497547,69,2[1],[1]3,PA4900,major facilitator superfamily transporter
+31_breseq_pa01_a107_out,NC_002516,5499737,5499783,47,2[1],[1]2,mdlC,benzoylformate decarboxylase
+31_breseq_pa01_a107_out,NC_002516,5554245,5554331,87,2[1],[1]2,PA4949,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5585552,5585670,119,2[1],[1]2,[PA4975],[PA4975]
+31_breseq_pa01_a107_out,NC_002516,5633833,5633892,60,2[1],[1]2,glnE,bifunctional glutaminesynthetase adenylyltransferase/deadenyltransferase
+31_breseq_pa01_a107_out,NC_002516,5638851,5638870,20,5[0],[0]2,aceE/aceF,pyruvate dehydrogenase subunit E1/dihydrolipoamide acetyltransferase
+31_breseq_pa01_a107_out,NC_002516,5649457,5649479,23,2[1],[1]2,PA5021/PA5022,sodium/hydrogen antiporter/potassium efflux protein KefA
+31_breseq_pa01_a107_out,NC_002516,5663183,5663326,144,3[1],[1]2,PA5032,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,5694507,5694525,19,2[1],[0]2,hslU/PA5055,ATPdependent protease ATPbinding subunit HslU/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5700859,5700997,139,2[1],[1]2,phaF,polyhydroxyalkanoate synthesis protein PhaF
+31_breseq_pa01_a107_out,NC_002516,5701088,5701169,82,2[1],[1]2,phaF,polyhydroxyalkanoate synthesis protein PhaF
+31_breseq_pa01_a107_out,NC_002516,5710391,5710562,172,2[1],[1]2,PA5072,chemotaxis transducer
+31_breseq_pa01_a107_out,NC_002516,5735082,5735199,118,2[1],[1]2,PA5093,histidine/phenylalanine ammonialyase
+31_breseq_pa01_a107_out,NC_002516,5762560,5762598,39,2[1],[0]2,[PA5116],[PA5116]
+31_breseq_pa01_a107_out,NC_002516,5782594,5782658,65,2[1],[1]3,PA5134,carboxylterminal protease
+31_breseq_pa01_a107_out,NC_002516,5803551,5803553,3,2[0],[1]2,PA5155/PA5156,amino acid ABC transporter permease/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5822843,5822912,70,2[1],[1]2,arcA,arginine deiminase
+31_breseq_pa01_a107_out,NC_002516,5826709,5826766,58,2[1],[0]2,PA5174,betaketoacyl synthase
+31_breseq_pa01_a107_out,NC_002516,5847275,5847297,23,2[0],[1]2,PA5194,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,5915290,5915546,257,2[1],[1]2,algP,alginate regulatory protein AlgP
+31_breseq_pa01_a107_out,NC_002516,5915640,5915656,17,2[1],[1]2,algP,alginate regulatory protein AlgP
+31_breseq_pa01_a107_out,NC_002516,5939983,5940031,49,2[1],[1]2,[rnk],[rnk]
+31_breseq_pa01_a107_out,NC_002516,6027069,6027125,57,2[1],[1]2,phoB,twocomponent response regulator PhoB
+31_breseq_pa01_a107_out,NC_002516,6050056,6050096,41,2[0],[1]3,betB,betaine aldehyde dehydrogenase
+31_breseq_pa01_a107_out,NC_002516,6121353,6121396,44,2[1],[1]2,PA5438,transcriptional regulator
+31_breseq_pa01_a107_out,NC_002516,6161431,6161466,36,2[1],[1]2,PA5472,hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,6239436,6239447,12,4[0],[1]2,PA5545/PA5546,hypothetical protein/hypothetical protein
+31_breseq_pa01_a107_out,NC_002516,6243076,6243084,9,2[1],[0]4,PA5548/glmS,major facilitator superfamily transporter/glucosaminefructose6phosphate aminotransferase

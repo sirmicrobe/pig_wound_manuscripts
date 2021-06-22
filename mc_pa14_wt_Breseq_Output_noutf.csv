@@ -1,0 +1,53 @@
+Sample,Sample,Seq Id,Position,Reads (Cov),Freq,Annotation,Gene,Product
+32_breseq_wt_out,32_breseq_wt_out,NC_008463,'3175697=,207 (3.460),55.7%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,32_breseq_wt_out,NC_008463,,90 (1.660),55.7%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+33_breseq_wt_out,33_breseq_wt_out,NC_008463,'3175697=,113 (3.530),54.4%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,33_breseq_wt_out,NC_008463,,52 (1.800),54.4%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+34_breseq_wt_out,34_breseq_wt_out,NC_008463,'3175697=,161 (3.570),60.2%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,34_breseq_wt_out,NC_008463,,69 (1.690),60.2%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+35_breseq_wt_out,35_breseq_wt_out,NC_008463,'3175697=,160 (3.030),59.6%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,35_breseq_wt_out,NC_008463,,113 (2.370),59.6%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+36_breseq_wt_out,36_breseq_wt_out,NC_008463,'3175697=,159 (3.020),53.6%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,36_breseq_wt_out,NC_008463,,63 (1.330),53.6%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+38_breseq_wt_out,38_breseq_wt_out,NC_008463,'3175697=,106 (3.510),59.4%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,38_breseq_wt_out,NC_008463,,49 (1.800),59.4%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+39_breseq_wt_out,39_breseq_wt_out,NC_008463,'3175697=,133 (3.110),54.7%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,39_breseq_wt_out,NC_008463,,82 (2.120),54.7%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+40_breseq_wt_out,40_breseq_wt_out,NC_008463,'3175697=,114 (3.160),54.6%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,40_breseq_wt_out,NC_008463,,65 (1.990),54.6%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+42_breseq_wt_out,42_breseq_wt_out,NC_008463,'3175697=,120 (4.160),53.9%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,42_breseq_wt_out,NC_008463,,49 (1.880),53.9%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+43_breseq_wt_out,43_breseq_wt_out,NC_008463,'=3095106,7 (0.220),23.4%,coding(444/1089nt),PA14_RS14175,TauD/TfdA family dioxygenase
+,43_breseq_wt_out,NC_008463,3095137=,13 (0.440),23.4%,coding(475/1089nt),PA14_RS14175,TauD/TfdA family dioxygenase
+43_breseq_wt_out,43_breseq_wt_out,NC_008463,'3175697=,110 (3.490),55.7%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,43_breseq_wt_out,NC_008463,,55 (1.930),55.7%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+44_breseq_wt_out,44_breseq_wt_out,NC_008463,'3175697=,94 (3.430),64.0%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,44_breseq_wt_out,NC_008463,,42 (1.700),64.0%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+44_breseq_wt_out,44_breseq_wt_out,NC_008463,'4345126=,48 (1.750),21.5%,intergenic(45/+61),PA14_RS19845/PA14_RS19850,tRNA 2thiocytidine(32) synthetase TtcA/integrase
+,44_breseq_wt_out,NC_008463,,14 (0.550),21.5%,intergenic(+317/59),PA14_RS31160/PA14_RS19915,hypothetical protein/hypothetical protein
+47_breseq_wt_out,47_breseq_wt_out,NC_008463,'3175697=,114 (3.210),59.2%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,47_breseq_wt_out,NC_008463,,75 (2.340),59.2%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+48_breseq_wt_out,48_breseq_wt_out,NC_008463,'3175697=,105 (2.180),59.0%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,48_breseq_wt_out,NC_008463,,85 (1.960),59.0%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+49_breseq_wt_out,49_breseq_wt_out,NC_008463,'3175697=,159 (3.270),56.4%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,49_breseq_wt_out,NC_008463,,59 (1.340),56.4%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+50_breseq_wt_out,50_breseq_wt_out,NC_008463,'3175697=,181 (3.260),55.5%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,50_breseq_wt_out,NC_008463,,85 (1.700),55.5%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+51_breseq_wt_out,51_breseq_wt_out,NC_008463,'3175697=,174 (2.360),57.7%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,51_breseq_wt_out,NC_008463,,126 (1.900),57.7%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+62_breseq_wt_out,62_breseq_wt_out,NC_008463,'3175697=,188 (3.690),60.3%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,62_breseq_wt_out,NC_008463,,76 (1.650),60.3%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+63_breseq_wt_out,63_breseq_wt_out,NC_008463,'3175697=,153 (3.110),62.2%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,63_breseq_wt_out,NC_008463,,91 (2.040),62.2%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+64_breseq_wt_out,64_breseq_wt_out,NC_008463,'3175697=,137 (3.140),64.3%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,64_breseq_wt_out,NC_008463,,83 (2.100),64.3%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+67_breseq_wt_out,67_breseq_wt_out,NC_008463,'3175697=,157 (3.460),50.3%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,67_breseq_wt_out,NC_008463,,85 (2.080),50.3%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+68_breseq_wt_out,68_breseq_wt_out,NC_008463,'3175697=,146 (3.760),56.8%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,68_breseq_wt_out,NC_008463,,87 (2.480),56.8%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+70_breseq_wt_out,70_breseq_wt_out,NC_008463,'3175697=,118 (3.360),63.8%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,70_breseq_wt_out,NC_008463,,41 (1.290),63.8%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+82_breseq_wt_out,82_breseq_wt_out,NC_008463,'3175697=,150 (3.190),55.6%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,82_breseq_wt_out,NC_008463,,72 (1.690),55.6%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
+83_breseq_wt_out,83_breseq_wt_out,NC_008463,'3175697=,201 (3.240),46.6%,intergenic(146/+106),PA14_RS30510/PA14_RS14515,hypothetical protein/hypothetical protein
+,83_breseq_wt_out,NC_008463,,87 (1.550),46.6%,intergenic(69/218),PA14_RS14525/PA14_RS14530,hypothetical protein/Tn3 family transposase
